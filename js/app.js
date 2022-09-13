@@ -1,6 +1,6 @@
 const button = document.querySelector(".btn");
 const image = document.querySelector(".img");
-const url = "http://aws.random.cat/meow";
+const url = "http:\/\/aws.random.cat\/meow";
 
 //фукнция для запроса
 async function fetchHandler() {
